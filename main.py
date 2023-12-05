@@ -15,7 +15,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     for i in range(5):
         print(i)
-        print('new:'+str(i+1))
-        print('nwe2:'+str(i*2))
+        print('new:'+str(i+1))#追加注释
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
