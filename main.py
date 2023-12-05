@@ -16,5 +16,6 @@ if __name__ == '__main__':
     for i in range(5):
         print(i)
         print('new:'+str(i+1))
+        print('nwe2:'+str(i*2))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
