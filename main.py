@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     for i in range(5):
         print(i)
+        print('new:'+str(i+1))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
