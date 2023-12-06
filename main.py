@@ -12,7 +12,6 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('diem')
-    print_hi('PyCharm')
     for i in range(5):
         print(i)
 
